@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+footer{
+background-color:#08FB00;
+}
+footer p {
+	font-size: 30;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		color:#FFAB00;
+}	
+	
+	
